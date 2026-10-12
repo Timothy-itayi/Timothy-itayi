@@ -24,9 +24,9 @@
 
 | Signal | Project | What it does |
 |:--:|---|---|
-| 🛸 | **[Okta IAM Lab]([https://github.com/Timothy-itayi/REPLACE-ME](https://github.com/Timothy-itayi/okta-iam-lifecycle-lab))** | Joiner / mover / leaver lifecycle for a sample app (Rostr): SSO, group-based access, automated deprovisioning |
-| 📡 | **[M365 / Intune Help Desk Lab]([https://github.com/Timothy-itayi/REPLACE-ME](https://github.com/Timothy-itayi/m365-intune-helpdesk-lab))** | Device enrolment, compliance policies, and realistic L1/L2 ticket scenarios |
-| 🛰️ | **[Azure AD Help Desk Lab]([https://github.com/Timothy-itayi/REPLACE-ME](https://github.com/Timothy-itayi/operation-homelabs))** | Automated user provisioning with PowerShell, AD structure, and password reset workflows |
+| 🛸 | **[Okta IAM Lab](https://github.com/Timothy-itayi/okta-iam-lifecycle-lab)** | Joiner / mover / leaver lifecycle for a sample app (Rostr): SSO, group-based access, automated deprovisioning |
+| 📡 | **[M365 / Intune Help Desk Lab](https://github.com/Timothy-itayi/m365-intune-helpdesk-lab)** | Device enrolment, compliance policies, and realistic L1/L2 ticket scenarios |
+| 🛰️ | **[Azure AD Help Desk Lab]([https://github.com/Timothy-itayi/operation-homelabs)** | Automated user provisioning with PowerShell, AD structure, and password reset workflows |
 
 
 <img src="./assets/divider.svg" width="100%"/>
