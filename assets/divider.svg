@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 24" width="1000" height="24">
-  <style>
-    .p { animation: move 3s linear infinite; }
-    @keyframes move { from { transform: translateX(-120px); } to { transform: translateX(1000px); } }
-  </style>
-  <line x1="0" y1="12" x2="1000" y2="12" stroke="#1f8f47" stroke-width="1.5" stroke-dasharray="2 6"/>
-  <rect class="p" x="0" y="10" width="120" height="4" rx="2" fill="#39ff7a" opacity="0.8"/>
-  <circle cx="500" cy="12" r="4" fill="#ffb000"/>
-</svg>
