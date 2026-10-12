@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="UNIT-TI comms device. Operator: Timothy Itayi. Role: IAM / IT Support. Status: open to work. Location: Melbourne, AU." width="100%"/>
+  <img src="./assets/header1.svg" alt="UNIT-TI comms device. Operator: Timothy Itayi. Role: IAM / IT Support. Status: open to work. Location: Melbourne, AU." width="100%"/>
 </p>
 
 <p align="center">
